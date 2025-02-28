@@ -1,10 +1,10 @@
 <h1 align="center">Bc Games Clone Django</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/TariqMehmood1004/bc-games-clone-django?color=56BEB8">
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/TariqMehmood1004/bc-games-clone-django?color=56BEB8">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/TariqMehmood1004/bc-games-clone-django?color=56BEB8">
-  <img alt="License" src="https://img.shields.io/github/license/TariqMehmood1004/bc-games-clone-django?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/TariqMehmood1004/bc.games-clone-django?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/TariqMehmood1004/bc.games-clone-django?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/TariqMehmood1004/bc.games-clone-django?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/TariqMehmood1004/bc.games-clone-django?color=56BEB8">
 </p>
 
 <p align="center">
@@ -47,10 +47,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/TariqMehmood1004/bc-games-clone-django
+$ git clone https://github.com/TariqMehmood1004/bc.games-clone-django
 
 # Access
-$ cd bc-games-clone-django
+$ cd bc.games-clone-django
 
 # Install dependencies
 $ yarn
